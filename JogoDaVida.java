@@ -68,7 +68,7 @@ public class JogoDaVida {
     public void mostrarGrid() {
         for (int i = 0; i < linhas; i++) {
             for (int j = 0; j < colunas; j++) {
-                System.out.print(grid[i][j] == 1 ? "O" : "."); 
+                System.out.print(grid[i][j] == 1 ?"█" : " ");
             }
             System.out.println();
         }
