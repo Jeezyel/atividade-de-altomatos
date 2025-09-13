@@ -9,11 +9,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AutomatoCelular.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JogoDaVida.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JogoDaVidaVisual.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PainelGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "N:/Downloads/Automato_Celular",
@@ -92,7 +92,7 @@
       <updated>1757516905389</updated>
       <workItem from="1757516906614" duration="6168000" />
       <workItem from="1757779866610" duration="3571000" />
-      <workItem from="1757803796902" duration="335000" />
+      <workItem from="1757803796902" duration="699000" />
     </task>
     <servers />
   </component>
